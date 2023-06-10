@@ -1,0 +1,14 @@
+body{
+    background: rgba(126, 224, 216, 0.313);
+background: linear-gradient(90deg, rgba(102, 221, 211, 0.663) 0%, rgba(190,223,226,1) 50%, rgba(114, 215, 198, 0.549) 100%);
+}
+
+.navbar-nav .btn.btn-outline-dark .nav-link:hover {
+    color: #fff;
+  }
+  
+  .navbar-nav .btn.btn-outline-dark .nav-link.active {
+    color: #fff;
+    background-color: #000000;
+  }
+  
